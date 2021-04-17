@@ -8,7 +8,7 @@ That's why I made this repo to save your time while starting from new project on
 * React Native v0.64
 * TypeScript
 * React Navigation v4
-* Tab, Stack, Root Navigation and one navigation provider rule them all :)
+* Tab, Stack, Root Navigation and one navigation provider rule them all 😎
 
 ## Coming Next:
 * Design System
@@ -103,4 +103,4 @@ npx react-native start --reset-cache
 
 
 # Contributions 
- Contributions are welcome, you can open Pull Request with your style :)
+ Contributions are welcome, you can open Pull Request with your style 😍
